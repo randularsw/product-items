@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import ItemsList from "./modules/items-list";
 import CartProvider from "./core/cartContext";
